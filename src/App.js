@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Navbar from './Navbar';
 import ProductListPage from './ProductListPage';
 import Footer from './Footer';
-import { Route, Routes, BrowserRouter } from 'react-router-dom';
+import { Route, Routes, } from 'react-router-dom';
 import ProductDetail from './ProductDetail';
 import NotFound from './NotFund';
 
